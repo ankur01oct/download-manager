@@ -1,0 +1,7 @@
+{
+  "name": "downloadmanager",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
